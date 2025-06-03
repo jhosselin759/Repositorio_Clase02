@@ -1,0 +1,6 @@
+
+package programas;
+
+class string {
+    
+}
